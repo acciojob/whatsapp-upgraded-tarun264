@@ -17,8 +17,8 @@ public class WhatsappRepo {
     HashMap<Group, List<Message>> groupMessageMap= new HashMap<>();
     HashMap<Group,User> adminMap= new HashMap<>();
     HashMap<Message,User> senderMap= new HashMap<>();
-    private int groupCount=1;
-    private int messageId=1;
+    int groupCount=1;
+    int messageId=1;
     public String createUser(String name, String mobile) throws Exception {
         if(userDb.containsKey(mobile)){
             throw new Exception("User already exists");
