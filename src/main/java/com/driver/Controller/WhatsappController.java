@@ -2,9 +2,9 @@ package com.driver.Controller;
 
 import java.util.*;
 
-import com.driver.Model.Group;
-import com.driver.Model.Message;
-import com.driver.Model.User;
+import com.driver.Group;
+import com.driver.Message;
+import com.driver.User;
 import com.driver.Service.WhatsappService;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;

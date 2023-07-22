@@ -1,8 +1,8 @@
 package com.driver.Service;
 
-import com.driver.Model.Group;
-import com.driver.Model.Message;
-import com.driver.Model.User;
+import com.driver.Group;
+import com.driver.Message;
+import com.driver.User;
 import com.driver.Repository.WhatsappRepo;
 import org.springframework.stereotype.Service;
 

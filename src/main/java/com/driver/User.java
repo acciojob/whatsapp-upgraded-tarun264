@@ -1,4 +1,4 @@
-package com.driver.Model;
+package com.driver;
 
 public class User {
     private String name;
