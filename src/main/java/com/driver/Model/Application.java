@@ -1,4 +1,4 @@
-package com.driver;
+package com.driver.Model;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
