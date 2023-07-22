@@ -1,9 +1,9 @@
-package com.driver.Service;
+package com.driver;
 
 import com.driver.Group;
 import com.driver.Message;
 import com.driver.User;
-import com.driver.Repository.WhatsappRepo;
+import com.driver.WhatsappRepo;
 import org.springframework.stereotype.Service;
 
 import java.util.Date;
